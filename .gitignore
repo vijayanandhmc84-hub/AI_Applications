@@ -41,6 +41,12 @@ uploads/
 # Docker
 docker-compose.override.yml
 
+# Deployment files
+Dockerfile
+docker-compose.yml
+vercel.json
+.github/workflows/
+
 # OS
 .DS_Store
 Thumbs.db
